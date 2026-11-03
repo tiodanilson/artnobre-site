@@ -120,4 +120,4 @@ No topo de `js/main.js`, no objeto `CONFIG`. Todos os botões e o formulário us
 Não há servidor: ao enviar, o site monta a frase com os campos preenchidos e abre o WhatsApp com a mensagem pronta. As opções de serviço e cidade ficam nos `<select>` do bloco Contato no `index.html`.
 
 ### Domínio
-O site usa `https://artnobre.netlify.app/` em `canonical`, `og:image`, `og:url` e nos dados estruturados. Quando tiver domínio próprio, troque esse endereço no `index.html` (busque por `artnobre.netlify.app`).
+O site usa `https://tiodanilson.github.io/artnobre-site/` em `canonical`, `og:image`, `og:url` e nos dados estruturados. Quando tiver domínio próprio, troque esse endereço no `index.html` (busque por `tiodanilson.github.io/artnobre-site`).
